@@ -23,68 +23,29 @@ DataMiner Agent and client
 To be able to work with DataMiner, you must have at least one DataMiner
 Agent and a DataMiner client.
 
-| Concept                              | Description                          |
-| DataMiner Agent or DMA               | A piece of hardware running the      |
-|                                      | DataMiner software.                  |
-| DataMiner client                     | An entity communicating with the     |
-|                                      | Agent. The term is mostly used to    |
-|                                      | denote a client application that     |
-|                                      | allows users to interact with the    |
-|                                      | DataMiner Agent.                     |
-
-+--------------------------------------+--------------------------------------+
-| See also:                            | [DataMiner System                    |
-|                                      | layout](../GeneralLayout/GeneralLayo |
-|                                      | ut.htm#XREF_53231_Chapter_2_General) |
-+--------------------------------------+--------------------------------------+
+| Concept                | Description                                                  |
+| ---------------------- | ------------------------------------------------------------ |
+| DataMiner Agent or DMA | A piece of hardware running the DataMiner Software           |
+| DataMiner Client       | An entity communicating with the Agent.  The term is mostly used to denote a client application that allows users to interact with the DataMiner Agent |
+| See Also               | [DataMiner System Layout](../GeneralLayout/GeneralLayo%20%7C%0A%7C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%20ut.htm#XREF_53231_Chapter_2_General) |
 
 System components
 
 On a DataMiner Agent you can find different kinds of “objects”,
 representing components of your system:
 
-+--------------------------------------+--------------------------------------+
-| Concept                              | Description                          |
-+======================================+======================================+
-| An element                           | A device that is monitored by the    |
-|                                      | DataMiner System.                    |
-+--------------------------------------+--------------------------------------+
-| A parameter                          | A variable that refers to pieces of  |
-|                                      | data in the system. Its value may be |
-|                                      | detected by DataMiner, or may depend |
-|                                      | on user input. Values may be part of |
-|                                      | a range limited by a particular      |
-|                                      | minimum and maximum, or part of a    |
-|                                      | limited set of predetermined values. |
-+--------------------------------------+--------------------------------------+
-| A service                            | A group of elements or partial       |
-|                                      | elements, combined from the          |
-|                                      | perspective of a particular business |
-|                                      | aspect. As such, a DataMiner service |
-|                                      | can reflect all components required  |
-|                                      | for an actual business service.      |
-+--------------------------------------+--------------------------------------+
-| A view                               | A folder that can contain elements,  |
-|                                      | services and other DataMiner         |
-|                                      | components. Logically combining      |
-|                                      | components in a view allows the user |
-|                                      | to quickly access all components     |
-|                                      | that belong together in some way.    |
-+--------------------------------------+--------------------------------------+
-| A redundancy group                   | A group of devices that have been    |
-|                                      | configured in such a way that if one |
-|                                      | or more of them fail, others can     |
-|                                      | take over automatically.             |
-+--------------------------------------+--------------------------------------+
+| Concept            | Description                                                  |
+| ------------------ | ------------------------------------------------------------ |
+| An element         | A device that is monitored by the DataMiner System           |
+| A parameter        | A variable that refers to pieces of data in the system.  Its value may be detected by DataMiner, or may depend on user input.  Values may be part of a range limited by a particular minimum or maximum, or part of a limited set of predetermined values. |
+| A service          | A group of elements or partial elements, combined from the perspective of a particular business aspect.  As such, a DataMiner service can reflect all components required for an actual business service. |
+| A view             | A folder that can contain elements, services and other DataMiner components.  Logically combining components in a view allows the user to quickly access all components that belong together in some way. |
+| A redundancy Group | A group of devices that have been configured in such a way that if one or more of them fail, others can take over automatically. |
+| NOTE               | For mor information about these components, refer to the relevant section in [Basic DataMiner Functionality](here). |
 
-+--------------------------------------+--------------------------------------+
-| NOTE:                                | For more information about these     |
-|                                      | components, refer to the relevant    |
-|                                      | section in [Basic DataMiner          |
-|                                      | functionality](../../Part2BasicFunct |
-|                                      | ionalities/Part2BasicFunctionalities |
-|                                      | .htm#XREF_32245_Basic_DataMiner).    |
-+--------------------------------------+--------------------------------------+
+
+
+
 
 DataMiner functionalities
 
@@ -232,4 +193,4 @@ prerequisites, depending on the app.
 |                                      | _Solutions)                          |
 +--------------------------------------+--------------------------------------+
 
- 
+ 
