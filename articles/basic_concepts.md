@@ -18,7 +18,7 @@ the documentation.
 
 •[DataMiner Standard Apps](#XREF_36366_DataMiner_Solutions)
 
-DataMiner Agent and client
+## DataMiner Agent and client
 
 To be able to work with DataMiner, you must have at least one DataMiner
 Agent and a DataMiner client.
