@@ -74,15 +74,11 @@ In some network setups, special interfacing tools called “DMA peripherals” a
 
 Frequently used peripherals include:
 
-•Serial Gateway (RS232 and/or RS485 ports)
-
-•IO Gateway (analog and digital IOs)
-
-•HMS Gateway (RF ports, HMS compliant)
-
-•GPIB Gateway (IEEE-488 ports)
-
-•...
+* Serial Gateway (RS232 and/or RS485 ports)
+* IO Gateway (analog and digital IOs)
+* HMS Gateway (RF ports, HMS compliant)
+* GPIB Gateway (IEEE-488 ports)
+* ...
 
 |     |     |
 | --- | --- |
