@@ -1,0 +1,1 @@
+Vendor B Connector 1
