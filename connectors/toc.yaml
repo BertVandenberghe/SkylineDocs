@@ -1,0 +1,7 @@
+- name: Vendor A
+  href: Vendor A.md
+- name: Vendor B
+  href: Vendor B.md
+  items:
+    - name: Vendor B Connector 1
+      href: Vendor B Connector 1.md

@@ -7,3 +7,6 @@
   href: obj/api/
 - name: REST API
   href: restapi/
+- name: Connectors
+  href: connectors/
+  homepage: connectors/toc.md
