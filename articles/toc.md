@@ -2,3 +2,5 @@
 # [Engineering Guidelines](engineering_guidelines.md)
 # [CSharp Coding Standards](csharp_coding_standards.md)
 # [Basic Concepts](basic_concepts.md)
+# [Basic Concepts-jose](basic_concepts_jose.md)
+# [General Layout](general_layout.md)
