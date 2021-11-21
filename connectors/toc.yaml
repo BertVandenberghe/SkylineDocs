@@ -1,3 +1,5 @@
+- name: Connectors
+  href: intro.md
 - name: Vendor A
   href: Vendor_A.md
 - name: Vendor B
